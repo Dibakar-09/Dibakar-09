@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dibakr Kundu from West Bengal, India.
+- 👋 Hi, I’m Dibakar Kundu from West Bengal, India.
 - 👀 I’m interested in web and graphics designing.
 - 🌱 Recently I have developed a keen interest in Data Science and Data Analytics.
 - 💞️ Looking forward to learning new concepts and ideas through various projects.
